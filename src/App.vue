@@ -1,11 +1,12 @@
 <template>
-  <h2>Vue Breeze Api</h2>
+  <main>
+    <Nav/>
+    <router-view/>
+  </main>
 </template>
 
-<script>
-export default {
-
-}
+<script setup>
+import Nav from './components/Nav.vue';
 </script>
 
 <style>
