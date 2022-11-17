@@ -5,7 +5,7 @@
 ## Features
 
 - Registration
-- Login (Making sure csrf token is set)
+- Login ((Making sure csrf token is set))
 - Email Verification
 - Forget Password
 - Logout
