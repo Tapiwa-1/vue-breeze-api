@@ -13,7 +13,8 @@
 
 ## Dependencies
 
--- <b>dependencies</b>
+- <b>axios</b> :  A promise-based HTTP Client for node.js and the browser. It is isomorphic (= it can run in the browser and nodejs with the same codebase). On the server-side it uses the native node.js http module, while on the client (browser) it uses XMLHttpRequests.
+- <b>flowbite</b> :Flowbite is an ecosystem built on top of Tailwind CSS including a component library, block sections, a Figma design system and other resources.
 
 ## Project setup
 ```
