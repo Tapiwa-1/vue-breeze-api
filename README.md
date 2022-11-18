@@ -11,6 +11,9 @@
 - Logout
 - Home Page if login successfully
 
+## Dependencies
+
+-- <b>dependencies</b>
 
 ## Project setup
 ```
