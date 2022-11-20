@@ -18,6 +18,9 @@
 - <b>Pinia</b> : State management for vue-projects
 - <b>Vue Router</b> : The official router for Vue.js
 
+##Key Notes
+
+
 ## Project setup
 ```
 npm install
