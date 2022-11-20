@@ -18,8 +18,8 @@
 - <b>Pinia</b> : State management for vue-projects
 - <b>Vue Router</b> : The official router for Vue.js
 
-##Key Notes
-
+## Key Notes
+- <b>A callback</b> is a function passed as an argument to another function.
 
 ## Project setup
 ```
