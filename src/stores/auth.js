@@ -36,6 +36,11 @@ export const useAuthStore = defineStore("auth",{
             password_confirmation: data.password_confirmation
         });
             this.router.push("/");
+        },
+        async handleLogout () {
+         
+            axios.post("/logout");
+            this.authUser = null;
         }
     }
 })
