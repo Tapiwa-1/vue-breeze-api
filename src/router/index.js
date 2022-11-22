@@ -6,6 +6,7 @@ const routes =[
     {path: '/',name:"Home" ,component: Home},
     {path: '/login', name: "Login",component : ()=>import ("../components/Login.vue")},
     {path: '/register', name:"Register",component : ()=>import ("../components/Register.vue")},
+    {path: '/forgetpassword', name:"ForgetPassword",component : ()=>import ("../components/ForgetPassword.vue")},
 ];
 
 const router = createRouter({
