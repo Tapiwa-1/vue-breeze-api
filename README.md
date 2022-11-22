@@ -48,4 +48,4 @@ npm run dev
 npm run build
 ```
 ## Laravel Auth Routes
-# Registration
+### Registration
