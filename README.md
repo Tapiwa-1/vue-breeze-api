@@ -6,7 +6,6 @@
 
 - Registration
 - Login ((Making sure csrf token is set))
-- Email Verification
 - Forget Password
 - Logout
 - Home Page if login successfully
