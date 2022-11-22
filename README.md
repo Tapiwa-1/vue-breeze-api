@@ -49,3 +49,15 @@ npm run build
 ```
 ## Laravel Auth Routes
 ### Registration
+```
+Route::post('/register', [RegisteredUserController::class, 'store'])
+                ->middleware('guest')
+                ->name('register');
+```
+### Login Route
+```
+Route::post('/login', [AuthenticatedSessionController::class, 'store'])
+                ->middleware('guest')
+                ->name('login');
+
+```
