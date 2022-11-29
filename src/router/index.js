@@ -7,6 +7,7 @@ const routes =[
     {path: '/login', name: "Login",component : ()=>import ("../components/Login.vue")},
     {path: '/register', name:"Register",component : ()=>import ("../components/Register.vue")},
     {path: '/forgetpassword', name:"ForgetPassword",component : ()=>import ("../components/ForgetPassword.vue")},
+     {path: '/password-reset/:token', name:"ResetPassword",component : ()=>import ("../components/ResetPassword.vue")},
 ];
 
 const router = createRouter({
