@@ -11,7 +11,8 @@
 - Home Page if login successfully
 
 ## Screenshots
-
+| <img  src="https://github.com/Tapiwa-1/Tapiwa-1/blob/main/laravuesignin.png"/> | <img  src="https://github.com/Tapiwa-1/Tapiwa-1/blob/main/laravuesignin.png"/> |
+| ------------- | ------------- |
 
 ## Dependencies
 
