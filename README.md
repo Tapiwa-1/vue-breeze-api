@@ -3,7 +3,6 @@
  <img  src="https://github.com/Tapiwa-1/Tapiwa-1/blob/main/laravuesignin.png"/> 
  
 ## Features
-
 - Registration
 - Login ((Making sure csrf token is set))
 - Forget Password
